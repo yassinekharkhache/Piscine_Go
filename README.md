@@ -1,5 +1,5 @@
-# the some exercises of piscine of zone01 
-I skipped the part of shell scripting and the raid and some execises of quests but i'm going to add them
+#  Some exercises of piscine of zone01 
+I skipped the part of shell scripting and the raid and some exercises of quests but I'm going to add them
 
-note :- evey package should called piscine
-      -the only functin allowed in the pisine is here github.com/01-edu/z01 but some times they allowed you to use Os package
+note :- every package should called piscine
+      -the only function allowed in the piscine is here github.com/01-edu/z01 but sometimes they allow you to use Os package
